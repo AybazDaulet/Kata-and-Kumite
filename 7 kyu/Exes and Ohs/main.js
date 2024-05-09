@@ -3,4 +3,3 @@ function XO(str) {
     return (arr1 && arr1.length) === (arr2 && arr2.length);
 }
 
-console.log(XO("ooom"))
